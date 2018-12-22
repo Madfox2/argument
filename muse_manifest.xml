@@ -1,9 +1,15 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="asd.com" resolutions="1x" timestamp="1545240675865">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="asd.com" resolutions="1x" timestamp="1545476727223">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4268184461" ref="index"/>
+    <file name="index.css" crc="3926207065" ref="index"/>
   </folder>
   <folder name="fonts">
+    <file name="georgia.woff" crc="4081276450"/>
+    <file name="georgia.eot" crc="47666137"/>
+    <file name="georgia.svg" crc="4002135591"/>
+    <file name="prata-regular.woff" crc="496490660"/>
+    <file name="prata-regular.eot" crc="462553094"/>
+    <file name="prata-regular.svg" crc="4265117448"/>
     <file name="oranienbaum-regular.woff" crc="4051595981"/>
     <file name="oranienbaum-regular.eot" crc="3845710660"/>
     <file name="oranienbaum-regular.svg" crc="4124140776"/>
@@ -101,5 +107,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="334606169" seo="true" mt="1545240619932" redirect="true"/>
+  <file name="index.html" crc="3845787658" seo="true" mt="1545475623787" redirect="true"/>
 </manifest>
