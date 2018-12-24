@@ -1,18 +1,15 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="asd.com" resolutions="1x" timestamp="1545476727223">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="dsadasd.com" resolutions="1x" timestamp="1545654861116">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3926207065" ref="index"/>
+    <file name="index.css" crc="4280028117" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="georgia.woff" crc="4081276450"/>
-    <file name="georgia.eot" crc="47666137"/>
-    <file name="georgia.svg" crc="4002135591"/>
-    <file name="prata-regular.woff" crc="496490660"/>
-    <file name="prata-regular.eot" crc="462553094"/>
-    <file name="prata-regular.svg" crc="4265117448"/>
-    <file name="oranienbaum-regular.woff" crc="4051595981"/>
-    <file name="oranienbaum-regular.eot" crc="3845710660"/>
-    <file name="oranienbaum-regular.svg" crc="4124140776"/>
+    <file name="roboto-black.woff" crc="3813036872"/>
+    <file name="roboto-black.eot" crc="4167396660"/>
+    <file name="roboto-black.svg" crc="411626015"/>
+    <file name="roboto-regular.woff" crc="375182986"/>
+    <file name="roboto-regular.eot" crc="197016122"/>
+    <file name="roboto-regular.svg" crc="119663370"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -25,37 +22,34 @@
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="aaron-burden-64849-unsplash.jpg" crc="100856693" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="348338008550527c91b780505a0ebcdb.jpg" crc="462809609" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="aleynikov.jpg" crc="3909568555" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="aa7fdbec93c65f4420304ed87cf240a8.jpg" crc="3887599615" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="скачанные файлы (2).jpg" crc="3850863911" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="матвеев2.jpg" crc="4128139471" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="kulik.jpg" crc="304129380" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="aed6193166c0c126f7acb49ac1b7fa48.jpg" crc="3766480724" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="скачанные файлы (1).jpg" crc="4195680141" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="240px-virtuspro_cveta_megafona_logo.jpg" crc="3810909408" seo="true" ref="index">
+    <file name="348338008550527c91b780505a0ebcdb.jpg" crc="462809609" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="58942_4484ed43282b1784c8bd0b3c8f111cb3bb2c94dd_aimatter_l.png" crc="48872586" seo="true" ref="index">
+    <file name="aed6193166c0c126f7acb49ac1b7fa48.jpg" crc="3766480724" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kulik.jpg" crc="304129380" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="скачанные файлы (2).jpg" crc="3850863911" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aa7fdbec93c65f4420304ed87cf240a8.jpg" crc="3887599615" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="матвеев2.jpg" crc="4128139471" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="240px-virtuspro_cveta_megafona_logo255x249.jpg" crc="4222096633" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="58942_4484ed43282b1784c8bd0b3c8f111cb3bb2c94dd_aimatter_l-crop-u1061.png" crc="514157728" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="1455869658_mtbank.jpg" crc="298688767" seo="true" ref="index">
@@ -64,28 +58,28 @@
     <file name="acb8a3cd81bd14c51f3727dad8382104.png" crc="3914923057" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="alfa-banksvg.png" crc="379541311" seo="true" ref="index">
+    <file name="alfa-banksvg.png" crc="406237155" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ey_logo13.png" crc="184063961" seo="true" ref="index">
+    <file name="ey_logo13.png" crc="430164195" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="favicon-512x512.jpg" crc="114889512" seo="true" ref="index">
+    <file name="favicon-512x512.jpg" crc="4108992311" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="haribo_logosvg.png" crc="514421784" seo="true" ref="index">
+    <file name="haribo_logosvg.png" crc="4141717215" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hbrqxub0mfk.jpg" crc="4185248692" seo="true" ref="index">
+    <file name="hbrqxub0mfk.jpg" crc="491516122" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="images.jpg" crc="4199692734" seo="true" ref="index">
+    <file name="images405x155.jpg" crc="4082604831" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="kapsch-_logo.jpg" crc="4216389079" seo="true" ref="index">
+    <file name="kapsch-_logo-crop-u1079.jpg" crc="374849422" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo-belarusbank.png" crc="154192632" seo="true" ref="index">
+    <file name="logo-belarusbank.png" crc="3812539532" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="rfimxffn_400x400.jpg" crc="527698158" seo="true" ref="index">
@@ -94,18 +88,18 @@
     <file name="treasury-logo.jpg" crc="7508974" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tupperware_brands_logo.jpg" crc="168214955" seo="true" ref="index">
+    <file name="tupperware_brands_logo-crop-u1087.jpg" crc="339742427" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="без названия.jpg" crc="4165741810" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="0.jpg" crc="3996897070" seo="true" ref="index">
+    <file name="0337x337.jpg" crc="161856331" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="11407.png" crc="4145679475" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3845787658" seo="true" mt="1545475623787" redirect="true"/>
+  <file name="index.html" crc="4285922058" seo="true" mt="1545654811116" redirect="true"/>
 </manifest>
