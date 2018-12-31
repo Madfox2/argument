@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 740 680" style="enable-background:new 0 0 740 680;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F2F2F2;}
+	.st1{fill:#DDE3E9;}
+	.st2{opacity:0.7;}
+</style>
+<title>Scene/Home</title>
+<desc>Created with Sketch.</desc>
+<g id="Hanging-Lamp_1_" transform="translate(25.000000, 0.000000)">
+	<g id="Light" transform="translate(0.000000, 152.673469)">
+		<ellipse id="Hanging-Lamp-Light" class="st0" cx="59" cy="69.5" rx="42.5" ry="22.5"/>
+		<path id="Hanging-Lamp" class="st1" d="M108.5,85c0-27.6-22.2-50-49.5-50S9.5,57.4,9.5,85"/>
+	</g>
+	<rect id="Wire" x="56.5" y="35" class="st1" width="5" height="160"/>
+</g>
+<g id="Hanging-Lamp_3_" transform="translate(115.000000, 0.000000)" class="st2">
+	<g id="Light_1_" transform="translate(0.000000, 113.000000)">
+		<ellipse id="Hanging-Lamp-Light_1_" class="st0" cx="46.5" cy="62.8" rx="31.8" ry="18.2"/>
+		<path id="Hanging-Lamp_2_" class="st1" d="M83.5,75.4c0-22.3-16.6-40.4-37-40.4s-37,18.1-37,40.4"/>
+	</g>
+	<rect id="Wire_1_" x="44.5" y="35" class="st1" width="5" height="136"/>
+</g>
+</svg>
