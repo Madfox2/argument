@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="asdasd.com" resolutions="1x" timestamp="1546346450430">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="asdasd.com" resolutions="1x" timestamp="1546346635462">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4225086345" ref="index"/>
+    <file name="index.css" crc="4217186801" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="montserrat-bold.woff" crc="4111403665"/>
@@ -27,10 +27,6 @@
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="world-location.svg" crc="125801244" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="world-location_poster_.png" crc="4248333486" ref="index"/>
     <file name="home6.svg" crc="304637358" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -143,5 +139,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3862219791" seo="true" mt="1546346373594" redirect="true"/>
+  <file name="index.html" crc="392186402" seo="true" mt="1546346612008" redirect="true"/>
 </manifest>
