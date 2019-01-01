@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://asdasd.com/index.html</loc>
-    <lastmod>2018-12-31</lastmod>
+    <lastmod>2019-01-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -45,7 +45,7 @@
       <image:loc>http://asdasd.com/images/240px-virtuspro_cveta_megafona_logo%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://asdasd.com/images/%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-crop-u1100.jpg</image:loc>
+      <image:loc>http://asdasd.com/images/%D0%B1%D0%B5%D0%B7%20%D0%BD%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://asdasd.com/images/logo-rus-grin-crop-u1079.jpg</image:loc>
